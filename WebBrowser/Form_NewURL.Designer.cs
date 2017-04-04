@@ -37,7 +37,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(86, 40);
+            this.label1.Location = new System.Drawing.Point(96, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(61, 25);
             this.label1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // txtbox_URL
             // 
             this.txtbox_URL.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtbox_URL.Location = new System.Drawing.Point(163, 40);
+            this.txtbox_URL.Location = new System.Drawing.Point(173, 47);
             this.txtbox_URL.Name = "txtbox_URL";
             this.txtbox_URL.Size = new System.Drawing.Size(187, 30);
             this.txtbox_URL.TabIndex = 1;
@@ -54,7 +54,7 @@
             // btn_tamam
             // 
             this.btn_tamam.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btn_tamam.Location = new System.Drawing.Point(232, 97);
+            this.btn_tamam.Location = new System.Drawing.Point(242, 104);
             this.btn_tamam.Name = "btn_tamam";
             this.btn_tamam.Size = new System.Drawing.Size(118, 41);
             this.btn_tamam.TabIndex = 2;
@@ -62,17 +62,17 @@
             this.btn_tamam.UseVisualStyleBackColor = true;
             this.btn_tamam.Click += new System.EventHandler(this.btn_tamam_Click);
             // 
-            // NewURL
+            // Form_NewURL
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(439, 150);
+            this.ClientSize = new System.Drawing.Size(472, 193);
             this.Controls.Add(this.btn_tamam);
             this.Controls.Add(this.txtbox_URL);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "NewURL";
-            this.Text = "NewURL";
+            this.Name = "Form_NewURL";
+            this.Text = "Enter URL";
             this.ResumeLayout(false);
             this.PerformLayout();
 

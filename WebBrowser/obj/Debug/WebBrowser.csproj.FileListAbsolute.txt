@@ -2,9 +2,9 @@ C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.co
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
-C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
 C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
-C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.NewURL.resources
+C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form_Main.resources
+C:\Visual Studio 2015\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form_NewURL.resources
